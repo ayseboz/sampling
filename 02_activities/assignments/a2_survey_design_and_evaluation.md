@@ -40,30 +40,33 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to understand the reasons behind the high turnover rate among entry and lower level employees in the company.BY understanding the factors affecting employee satisfaction and decision to leave, the HR department can implement strategies to improve employee satisfaction
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+-Target population is current and former employees who has entry or lower level position within the company in 12 months.
+-Sampling Frame; HR records listing employees for current and former employees 
+-Sampling Units; Each employees selecter from HR records
+-Sampling Strategy; Individual survey responses to understand employee experiences.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What was your position in the company?
+2. How long have you been working at the company?
+3. How do you feel about your day-to-day work?
+4. Does management seem invested in you and your success?
+5. Do you see an opportunity for personal advancement in your career?
+6. Do you feel adequately recognized for your accomplishments?
+7. Do you feel that the company has provided sufficient tools and resources to complete your tasks effectively?
+8. What were your main reasons for leaving (or considering leaving) the company?
+9. What strategies would you like to see implemented to better connect co-workers and team engagement?
+10. Do you have any other feedback or comments you'd like to share?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +74,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type Cross-sectional probability sample (Source; PUMF GUIDE p6)
+2. Sample size ; PUMF file contains questionnaire responses and associated information from 16,149 respondents.
+3. Target population ; The target population included all persons 15 years of age and older living in the ten provinces(excluding full-time residents of institutions).
+4. Sampling frame; Based on telephone number listings linked to household addresses.
+5. Survey mode(s) ; Data for the 2018 GSS GVP were collected electronically as a self-completed questionnaire (rEQ) as well as via computer assisted telephone interviews (iEQ).
+6. Timeline; Interviews were conducted from September 4th to December 28th, 2018.
+7. Response rate ;41.9%
+8. Weights; WGHT_PER: This is the basic weighting factor for analysis at the person level, i.e., to calculate estimates of the number of persons (non-institutionalized and aged 15 or over) having one or several given characteristics.
+9. Data processing; Most of the ongoing data processing steps are standard, including consistency edits, family edits and imputation.
+10. Cleaning, imputation, etc ;Records with missing or incorrect information were, in a small number of cases, corrected deterministically or imputed from other information on the questionnaire. The flow editing carried out by head office followed a ‘top down’ strategy, in that whether or not a given question was considered ‘on path’ was based on the response codes to the previous questions.Imputation is the process that supplies valid values for those variables that have been identified for a change either because of invalid information or because of missing information.
+11. Sources of error ; A major source of non-sampling errors is the effect of non-response on survey results.Estimates from a sample survey are subject to sampling error Sampling error is addressed using bootstrap weights.
+12. Limitations, known biases, etc; Over a large number of observations, randomly occurring errors will have little effect on estimates derived from the survey. However, errors occurring systematically will contribute to biases in the survey estimates
+13. https://www23.statcan.gc.ca/imdb/p3Instr.pl?Function=assembleInstr&a=1&&lang=en&Item_Id=1183690 & https://volunteer.ca/wp-content/uploads/2024/06/Volunteer_Canada_GSS-GVP_June-14_EN.pdf https://volunteer.ca/wp-content/uploads/2024/06/Volunteer_Canada_GSS-GVP_June-14_EN.pdf https://abacus.library.ubc.ca/file.xhtml?persistentId=hdl:11272.1/AB2/GBFDYG/MECMQM&version=1.0
 ```
 
 ## Rubric
